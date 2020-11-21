@@ -1,0 +1,33 @@
+<annotations>
+    <filename>xshoes_001.JPEG</filename>
+    <folder>images</folder>
+    <size>
+        <width>272</width>
+        <height>272</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>shoe</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2.99999999994</xmin>
+            <ymin>156.0</ymin>
+            <xmax>228.0</xmax>
+            <ymax>253.0</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>shoe</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>47.0000000001</xmin>
+            <ymin>155.0</ymin>
+            <xmax>272.0</xmax>
+            <ymax>242.0</ymax>
+        </bndbox>
+    </object>
+</annotations>

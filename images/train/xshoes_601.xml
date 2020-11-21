@@ -1,0 +1,1 @@
+<annotations><filename>xshoes_601.JPEG</filename><folder>images</folder><size><width>303</width><height>167</height><depth>3</depth></size><object><name>shoe</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>7.00000000014</xmin><ymin>42.0</ymin><xmax>301.0</xmax><ymax>167.0</ymax></bndbox></object></annotations>
